@@ -1,0 +1,3 @@
+# Raw Kaggle CSVs are large; download them from Kaggle instead of committing
+data/*.csv
+.DS_Store
